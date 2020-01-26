@@ -1,0 +1,47 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: #a3a3a3;
+}
+
+.order{
+  background: url(akin.jpg) no-repeat; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size:100%;
+  background-color: rgba(255,255,255,0.4);
+}
+
+section:hover{
+  opacity: 1;
+}
+
+.free{
+  background: url(Sbbm.jpg) no-repeat; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100%;
+}
+
+.margin-center{
+  margin: 0 auto;
+}
+
+.f1c{
+  color: rgb(0, 17, 255);
+  font-size: 4rem;
+  font-family: Alata;
+}
+
+.f2c{
+  color:#2196F3;
+  font-size: 2rem;
+  font-family: Baskervville;
+}
+
+.text-primary{
+  font-weight: 700px;
+  color: black;
+}
